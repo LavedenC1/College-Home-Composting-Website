@@ -178,6 +178,13 @@ table {
         backdrop-filter: blur(30px);
     }
 
+    body {
+        background: linear-gradient(to bottom right, green, lightgreen) !important;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    
     .link_container > a {
         font-size: 3vw;
     }
