@@ -177,6 +177,7 @@ table {
         min-height: 80vh;
         backdrop-filter: blur(30px);
     }
+    
 
     body {
         background: linear-gradient(to bottom right, green, lightgreen) !important;
